@@ -19,8 +19,8 @@ Sets your Git username and email.
 Example:
 
 ```bash
-git config --global user.name "Suraj"
-git config --global user.email "suraj@gmail.com"
+git config --global user.name "alank8s"
+git config --global user.email "alank8s.cloud@gmail.com"
 
 
 ---
