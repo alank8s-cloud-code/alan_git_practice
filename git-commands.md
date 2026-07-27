@@ -59,7 +59,15 @@ Example:
 
 git push origin main
 
+## git branch <branch-name>
 
+what it does:
+create a new branch
+
+## git switch <branch-name>
+
+what it does:
+switch existing branch to specific branch.
 
 ---
 
@@ -97,3 +105,5 @@ Shows changes between versions.
 Example:
 
 git diff
+
+
