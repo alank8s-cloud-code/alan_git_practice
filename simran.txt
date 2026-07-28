@@ -1,2 +1,3 @@
 echo "git add file-name"
 This command add file changes to stage
+hi every one
