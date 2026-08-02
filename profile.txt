@@ -2,3 +2,4 @@ Profile Page
 Fix typo
 Improve formatting
 Add profile image
+Update CSS
